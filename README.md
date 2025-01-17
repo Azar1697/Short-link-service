@@ -11,7 +11,7 @@ ShortLink Service — это приложение для генерации ко
    ```bash
    javac -d out src/*.java
 
-4. Запустите приложение. Перейдите в папку out и выполните:
+4. Запустите приложение. Перейдите в папку out и выполните: 
    ```bash
    java ShortLinkService
 
